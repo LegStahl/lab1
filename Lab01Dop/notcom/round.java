@@ -16,7 +16,7 @@ public class round {
 	public void setY(int a){
 		y = a;
 	}
-ghfhfh
+
 	public int getY(){
 		return y;
 	}
